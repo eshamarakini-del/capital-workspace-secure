@@ -1,0 +1,8 @@
+{
+  "name": "capital-workspace-secure",
+  "version": "1.0.0",
+  "description": "Capital Workspace with secure API keys",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
